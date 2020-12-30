@@ -3,12 +3,14 @@
   font-size: 30px;
 }
 
-#border {
+/* #border {
   border: 5px solid black;
   margin-top: 20px
  
+} */
+.nav-border{
+  border-bottom: 2px turquoise;
 }
-
 body,
 html {
   height: 125%;
@@ -29,6 +31,10 @@ html {
   font-weight: bold;
   text-align: left;
   margin-top: 20px;
+}
+
+#text-shadow {
+  text-shadow: 2px 2px 8px #FF0000;
 }
 
 form {
