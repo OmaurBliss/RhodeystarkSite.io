@@ -28,15 +28,9 @@ html {
   text-align: left;
   margin-top: 20px;
 }
-
-h5 {
-  text-shadow: 2px 2px 8px #FF0000;
+#media-align {
+  margin-left:px;
 }
-
- p { 
-  text-shadow: 2px 2px 8px #FF0000;
-}
-
 form {
   background-color: white;
 }
