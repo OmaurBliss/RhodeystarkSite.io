@@ -16,10 +16,6 @@ html {
   height: 125%;
     /* The image used */
     background-image: url("https://theloon.com/wp-content/uploads/2018/12/glitter.jpg");
-   
-
-  
-
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
@@ -33,7 +29,11 @@ html {
   margin-top: 20px;
 }
 
-#text-shadow {
+h5 {
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+ p { 
   text-shadow: 2px 2px 8px #FF0000;
 }
 
